@@ -1,2 +1,2 @@
-# prueba1
-compartiendo codigo - prueba
+# Repositorio de prueba
+repositorio de prueba. Aprendiendo a manejar github
